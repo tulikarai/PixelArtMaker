@@ -10,4 +10,4 @@ In this project, we are given a starter template by Udacity. Using this template
 * Upon clicking on a single grid square, color that square's background color to the currently selected color.
 * Build it with jQuery
 
-![alt text](./Image1.jpg)
+![alt text](https://github.com/tulikarai/PixelArtMaker/master/Image1.jpg)
