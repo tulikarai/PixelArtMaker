@@ -9,11 +9,5 @@ In this project, we are given a starter template by Udacity. Using this template
 * The grid is a <table>.
 * Upon clicking on a single grid square, color that square's background color to the currently selected color.
 * Build it with jQuery
-
-<<<<<<< HEAD
-![alt text](./images/screenShot.png)
-||||||| merged common ancestors
-![alt text](images/screenShot.png)
-=======
-
->>>>>>> e7ca7136c711cf55cec5a8e4e9b9cc0df475ac73
+  
+![screenshot](https://user-images.githubusercontent.com/31152446/49568728-16e86000-f8ef-11e8-8f46-e7f4d447847a.PNG)
