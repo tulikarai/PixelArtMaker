@@ -13,7 +13,7 @@ In this project, we are given a starter template by Udacity. Using this template
 <<<<<<< HEAD
 ![alt text](./images/screenShot.png)
 ||||||| merged common ancestors
-![alt text](./Image1.jpg)
+![alt text](images/screenShot.png)
 =======
 
 >>>>>>> e7ca7136c711cf55cec5a8e4e9b9cc0df475ac73
