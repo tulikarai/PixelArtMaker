@@ -1,5 +1,6 @@
 # Project: Pixel Art Maker
 This project is part of the Udacity Front-End Web Developer Nanodegree program.
+[check the project Live](https://tulikarai.github.io/PixelArtMaker/)
 
 ## The Project Details
 In this project, we are given a starter template by Udacity. Using this template, I'm building the script to do the following:
